@@ -27,6 +27,7 @@ O projeto mostra, de forma simples e didática, como usar Selenium com Python pa
 ┣ 📜 livros_scrapping.xlsx
 ┣ 📜 requirements.txt
 ┗ 📜 README.md
+
 ---
 
 ## 📘 Etapas da análise
